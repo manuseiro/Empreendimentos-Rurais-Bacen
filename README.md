@@ -18,6 +18,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina um dos pacot
 
 Estar utilizando a ultima versão do [Componente Empreendimento BACEN](https://www.bnb.gov.br/aplicativos-para-elaboracao-de-propostas) (Versão: 23/07/2020) disponivel no site bnb.gov.br.
 
+Certifique-se de que as versões do Office sejam todas de 32 bits ou de 64 bits. Não é possível combinar ambas as versões. Confira "Não foi possível instalar o Office (64 bits ou 32 bits)" ao tentar instalar.
+
 ### INSTALAÇÃO:
 
 1. Feche o programa Microsoft Excel, caso esteja com ele aberto.
