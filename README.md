@@ -4,7 +4,7 @@ Procedimento destina a clientes e projetista que utilizam as planilha de projeto
 para correção de critica apresentada ao utilizar planilhas de projetos disponivel pelo Banco do Nordeste.
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/Critica.png" />
+  <img alt="CriticaBacen" title="#CriticaBacen" src="./img/Critica.png" />
 </h1>
 
 ### NOTA: 
@@ -21,19 +21,39 @@ Estar utilizando a ultima versão do [Componente Empreendimento BACEN](https://w
 ### INSTALAÇÃO:
 1. Copie os arquivos (PreencheEmpreendimento.dll, SPR32D30.DLL e SPR32X30.OCX) para dentro do diretorio de instalação do 
 Componente Empreendimento BACEN (C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento) substituindo os presentes.
+<h1 align="center">
+  <img alt="ArquivoCopia" title="#ArquivoCopia" src="./img/ArquivoCopia.png" />
+</h1>
 
 2. Feche o programa Microsoft Excel, caso esteja com ele aberto.
 
 3. Execulte o CMD (Prompt de Comando) como Administrador.
 
 4. Acesse o diretorio do Componente pelo comando abaixo:
+
+<h1 align="center">
+  <img alt="DiretorioPreencheEmpreendimento" title="#DiretorioPreencheEmpreendimento" src="./img/ArquivoCopia.png" />
+</h1>
+
+```bash
 cd C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento
+```
 
 5. Digite o comando abaixo e de Enter, será apresentado tela de confirmação. Clique em OK.
-regsvr32 PreencheEmpreendimento.dll 
 
+<h1 align="center">
+  <img alt="PreencheEmpreendimento" title="#PreencheEmpreendimento" src="./img/ArquivoCopia.png" />
+</h1>
+```bash
+regsvr32 PreencheEmpreendimento.dll
+```
 6. Repita o procedimento com o comando abaixo.
+<h1 align="center">
+  <img alt="SPR32X30" title="#SPR32X30" src="./img/ArquivoCopia.png" />
+</h1>
+```bash
 regsvr32 SPR32X30.OCX
+```
 
 Pronto! com isso as planilhas de Projeto não apresentaram mais a critica.
 
