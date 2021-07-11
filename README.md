@@ -44,13 +44,16 @@ cd C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento
 <h1 align="center">
   <img alt="PreencheEmpreendimento" title="#PreencheEmpreendimento" src="./img/ArquivoCopia.png" />
 </h1>
+
 ```bash
 regsvr32 PreencheEmpreendimento.dll
 ```
+
 6. Repita o procedimento com o comando abaixo.
 <h1 align="center">
   <img alt="SPR32X30" title="#SPR32X30" src="./img/ArquivoCopia.png" />
 </h1>
+
 ```bash
 regsvr32 SPR32X30.OCX
 ```
