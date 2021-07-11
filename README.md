@@ -3,8 +3,9 @@
 Procedimento destina a clientes e projetista que utilizam as planilha de projeto disponivel pelo banco do nordetes. Segue abaixo passos 
 para correção de critica apresentada ao utilizar planilhas de projetos disponivel pelo Banco do Nordeste.
 
-CRITICA:
-A base de empreendimento BACEN está desatualizada, necessário baixar do Site do BNB www.bnb.gov.br atualização do empreendimento!
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/Critica.png" />
+</h1>
 
 ### NOTA: 
 Utilize este aplicativo somente com o Microsoft Excel, na plataforma de 32 bits, em qualquer versão a partir do Excel 2007. 
