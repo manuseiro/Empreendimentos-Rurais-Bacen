@@ -42,7 +42,7 @@ cd C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento
 5. Digite o comando abaixo e de Enter, será apresentado tela de confirmação. Clique em OK.
 
 <h1 align="center">
-  <img alt="PreencheEmpreendimento" title="#PreencheEmpreendimento" src="./img/PreencheEmpreendimento.png" />
+  <img alt="PreencheEmpreendimento" title="#PreencheEmpreendimento" src="./img/PreencheEmpreendimento.dll.png" />
 </h1>
 
 ```bash
