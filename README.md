@@ -13,7 +13,7 @@ Caso possua a versão 64 bits instalada, é necessário que seja feita a desinst
 Recomendamos que seja reiniciado a maquia após a desisntalação do Office para em seguida efetuar a instalação novamente.
 
 ### PRÉ-REQUISITO:
-Antes de começar, você vai precisar ter instalado em sua máquina um dos pacote Office 32 bits (qualquer versão apartir da versão 2007).
+Antes de começar, você vai precisar ter instalado em sua máquina um dos pacote [Office 32 bits](https://www.microsoft.com/pt-br/microsoft-365/microsoft-office) de qualquer versão apartir do Office 2007.
 
 Estar utilizando a ultima versão do [Componente Empreendimento BACEN](https://www.bnb.gov.br/aplicativos-para-elaboracao-de-propostas) (Versão: 23/07/2020) disponivel no site bnb.gov.br.
 
