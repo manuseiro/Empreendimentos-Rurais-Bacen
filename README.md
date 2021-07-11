@@ -1,6 +1,6 @@
-# seap
+# A base de empreendimento BACEN está desatualizada
 
-Procedimento destina a clientes e projetista que utilizam as planilha de projeto disponivel pelo banco do nordetes. Segue abaixo passos 
+Procedimento destina a clientes e projetista que utilizam as planilha de projeto disponibilizada pelo Banco do Nordete. Segue abaixo passos 
 para correção de critica apresentada ao utilizar planilhas de projetos disponivel pelo Banco do Nordeste.
 
 <h1 align="center">
@@ -36,6 +36,13 @@ regsvr32 PreencheEmpreendimento.dll
 regsvr32 SPR32X30.OCX
 
 Pronto! com isso as planilhas de Projeto não apresentaram mais a critica.
+
+### TECNOLOGIAS
+
+[Office 365 - 32 Bits](https://www.microsoft.com/pt-br/microsoft-365/microsoft-office)
+[Componente Empreendimento BACEN](https://www.bnb.gov.br/aplicativos-para-elaboracao-de-propostas) (Versão: 23/07/2020)
+[Planilha Pronaf](https://www.bnb.gov.br/aplicativos-para-elaboracao-de-propostas) (Versão: 23/02/2021)
+regsvr32
 
 
 
