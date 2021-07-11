@@ -1,6 +1,6 @@
-# A base de empreendimento BACEN está desatualizada
+# Critica de Empreendimento BACEN com data desatualizada
 
-Procedimento destina a clientes e projetista que utilizam as planilha de projeto disponibilizada pelo Banco do Nordete. Segue abaixo passos 
+Procedimento destina-se a clientes e projetista que utilizam as planilha de projeto disponibilizada pelo Banco do Nordete. Segue abaixo passos 
 para correção de critica apresentada ao utilizar planilhas de projetos disponivel pelo Banco do Nordeste.
 
 <h1 align="center">
@@ -11,7 +11,7 @@ para correção de critica apresentada ao utilizar planilhas de projetos disponi
 Utilize este aplicativo somente com o Microsoft Excel, na plataforma de 32 bits, em qualquer versão a partir do Excel 2007. 
 Caso possua a versão 64 bits instalada, é necessário que seja feita a desinstalação do office 64 bits e instalado o Office 32 bits.
 
-Recomendamos que seja reiniciado a maquia após a desisntalação do Office para em seguida efetuar a instalação novamente.
+Recomendamos que seja reiniciado a maquina após a desisntalação do Office, em seguida efetuar a instalação novamente.
 
 ### PRÉ-REQUISITO:
 Antes de começar, você vai precisar ter instalado em sua máquina um dos pacote [Office 32 bits](https://www.microsoft.com/pt-br/microsoft-365/microsoft-office) de qualquer versão apartir do Office 2007.
@@ -19,13 +19,14 @@ Antes de começar, você vai precisar ter instalado em sua máquina um dos pacot
 Estar utilizando a ultima versão do [Componente Empreendimento BACEN](https://www.bnb.gov.br/aplicativos-para-elaboracao-de-propostas) (Versão: 23/07/2020) disponivel no site bnb.gov.br.
 
 ### INSTALAÇÃO:
-1. Copie os arquivos (PreencheEmpreendimento.dll, SPR32D30.DLL e SPR32X30.OCX) para dentro do diretorio de instalação do 
-Componente Empreendimento BACEN (C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento) substituindo os presentes.
+
+1. Feche o programa Microsoft Excel, caso esteja com ele aberto.
+
+2. Copie os arquivos (PreencheEmpreendimento.dll, SPR32D30.DLL e SPR32X30.OCX) para dentro do diretorio de instalação do 
+Componente Empreendimento BACEN (C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento), caso não tenha os arquivos ou substituir os presentes.
 <h1 align="center">
   <img alt="ArquivoCopia" title="#ArquivosCopia" src="./img/ArquivosCopia.png" />
 </h1>
-
-2. Feche o programa Microsoft Excel, caso esteja com ele aberto.
 
 3. Execulte o CMD (Prompt de Comando) como Administrador.
 
