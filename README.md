@@ -30,7 +30,7 @@ Componente Empreendimento BACEN (C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento)
   <img alt="ArquivoCopia" title="#ArquivosCopia" src="./img/ArquivosCopia.png" />
 </h1>
 
-3. Execulte o CMD (Prompt de Comando) como Administrador.
+3. Precisamos registrar as bibliotecas que alteramos. Execulte o CMD (Prompt de Comando) como Administrador.
 
 4. Acesse o diretorio do Componente pelo comando abaixo:
 
