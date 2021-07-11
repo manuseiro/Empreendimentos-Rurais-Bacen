@@ -22,7 +22,7 @@ Estar utilizando a ultima versão do [Componente Empreendimento BACEN](https://w
 1. Copie os arquivos (PreencheEmpreendimento.dll, SPR32D30.DLL e SPR32X30.OCX) para dentro do diretorio de instalação do 
 Componente Empreendimento BACEN (C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento) substituindo os presentes.
 <h1 align="center">
-  <img alt="ArquivoCopia" title="#ArquivoCopia" src="./img/ArquivoCopia.png" />
+  <img alt="ArquivoCopia" title="#ArquivosCopia" src="./img/ArquivosCopia.png" />
 </h1>
 
 2. Feche o programa Microsoft Excel, caso esteja com ele aberto.
@@ -32,7 +32,7 @@ Componente Empreendimento BACEN (C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento)
 4. Acesse o diretorio do Componente pelo comando abaixo:
 
 <h1 align="center">
-  <img alt="DiretorioPreencheEmpreendimento" title="#DiretorioPreencheEmpreendimento" src="./img/ArquivoCopia.png" />
+  <img alt="DiretorioPreencheEmpreendimento" title="#DiretorioPreencheEmpreendimento" src="./img/DiretorioPreencheEmpreendimento.png" />
 </h1>
 
 ```bash
@@ -42,7 +42,7 @@ cd C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento
 5. Digite o comando abaixo e de Enter, será apresentado tela de confirmação. Clique em OK.
 
 <h1 align="center">
-  <img alt="PreencheEmpreendimento" title="#PreencheEmpreendimento" src="./img/ArquivoCopia.png" />
+  <img alt="PreencheEmpreendimento" title="#PreencheEmpreendimento" src="./img/PreencheEmpreendimento.png" />
 </h1>
 
 ```bash
@@ -51,7 +51,7 @@ regsvr32 PreencheEmpreendimento.dll
 
 6. Repita o procedimento com o comando abaixo.
 <h1 align="center">
-  <img alt="SPR32X30" title="#SPR32X30" src="./img/ArquivoCopia.png" />
+  <img alt="SPR32X30" title="#SPR32X30" src="./img/SPR32X30.OCX.png" />
 </h1>
 
 ```bash
