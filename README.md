@@ -1,7 +1,13 @@
-# Critica de Empreendimento BACEN com data desatualizada
 
-Procedimento destina-se a clientes e projetista que utilizam as planilha de projeto disponibilizada pelo Banco do Nordete. Segue abaixo passos 
-para correção de critica apresentada ao utilizar planilhas de projetos disponivel pelo Banco do Nordeste.
+
+
+#Empreendimentos Rurais (Bacen)
+
+O Componente Empreendimento Bacen é um programa que tem a finalidade de atualizar a tabela de empreendimentos rurais, definidos pelo Banco Central, quando da utilização dos aplicativos para elaboração de propostas (Programa SEAP ou as Planilhas de Projetos).
+
+[Componente Empreendimento BACEN](https://www.bnb.gov.br/documents/7968207/8116061/Empreendimentos_BACEN.zip/) (Versão: 23/07/2020)
+
+### ERROS COMUNS:
 
 <h1 align="center">
   <img alt="CriticaBacen" title="#CriticaBacen" src="./img/Critica.png" />
@@ -9,7 +15,6 @@ para correção de critica apresentada ao utilizar planilhas de projetos disponi
 
 ### NOTA: 
 Utilize este aplicativo somente com o Microsoft Excel, na plataforma de 32 bits, em qualquer versão a partir do Excel 2007. 
-Caso possua a versão 64 bits instalada, é necessário que seja feita a desinstalação do office 64 bits e instalado o Office 32 bits.
 
 Recomendamos que seja reiniciado a maquina após a desisntalação do Office, em seguida efetuar a instalação novamente.
 
@@ -21,6 +26,9 @@ Estar utilizando a ultima versão do [Componente Empreendimento BACEN](https://w
 Certifique-se de que as versões do Office sejam todas de 32 bits ou de 64 bits. Não é possível combinar ambas as versões. Confira "Não foi possível instalar o Office (64 bits ou 32 bits)" ao tentar instalar.
 
 ### INSTALAÇÃO:
+
+OBS: Procedimento destina-se a clientes e projetista que utilizam as planilha de projeto disponibilizada pelo Banco do Nordeste. Segue abaixo passos 
+para correção de critica apresentada ao utilizar planilhas de projetos disponivel pelo Banco do Nordeste.
 
 1. Feche o programa Microsoft Excel, caso esteja com ele aberto.
 
