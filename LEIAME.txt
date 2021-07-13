@@ -1,39 +1,56 @@
-SOBRE:
-Procedimento destina a clientes e projetista que utilizam as planilha de projeto disponivel pelo banco do nordetes. Segue abaixo passos 
+# Empreendimentos Rurais (Bacen)
+
+O Componente Empreendimento Bacen é um programa que tem a finalidade de atualizar a tabela de empreendimentos rurais, definidos pelo Banco Central, quando da utilização dos aplicativos para elaboração de propostas (Programa SEAP ou as Planilhas de Projetos).
+
+[Componente Empreendimento BACEN](https://www.bnb.gov.br/documents/7968207/8116061/Empreendimentos_BACEN.zip/) (Versão: 23/07/2020)
+
+### ERROS COMUNS:
+
+A base de empreendimentos BACEN está desatualizada, necessário baixar do Site do BNB www.bnb.gov.br atualização do empreendimento!
+
+### NOTA: 
+Utilize este aplicativo somente com o Microsoft Excel, na plataforma de 32 bits, em qualquer versão a partir do Excel 2007. 
+
+Recomendamos que seja reiniciado a maquina após a desisntalação do Office, em seguida efetuar a instalação novamente.
+
+### PRÉ-REQUISITO:
+Antes de começar, você vai precisar ter instalado em sua máquina um dos pacote [Office 32 bits](https://www.microsoft.com/pt-br/microsoft-365/microsoft-office) de qualquer versão apartir do Office 2007.
+
+Estar utilizando a ultima versão do [Componente Empreendimento BACEN](https://www.bnb.gov.br/aplicativos-para-elaboracao-de-propostas) (Versão: 23/07/2020) disponivel no site bnb.gov.br.
+
+Certifique-se de que as versões do Office sejam todas de 32 bits ou de 64 bits. Não é possível combinar ambas as versões. Confira "Não foi possível instalar o Office (64 bits ou 32 bits)" ao tentar instalar.
+
+### INSTALAÇÃO:
+
+OBS: Procedimento destina-se a clientes e projetista que utilizam as planilha de projeto disponibilizada pelo Banco do Nordeste. Segue abaixo passos 
 para correção de critica apresentada ao utilizar planilhas de projetos disponivel pelo Banco do Nordeste.
 
-CRITICA:
-A base de empreendimento BACEN está desatualizada, necessário baixar do Site do BNB www.bnb.gov.br atualização do empreendimento!
+1. Feche o programa Microsoft Excel, caso esteja com ele aberto.
 
-NOTA: 
-Utilize este aplicativo somente com o Microsoft Excel, na plataforma de 32 bits, em qualquer versão a partir do Excel 2007. 
-Caso possua a versão 64 bits instalada, é necessário que seja feita a desinstalação do office 64 bits e instalado o Office 32 bits.
+2. Copie os arquivos (PreencheEmpreendimento.dll, SPR32D30.DLL e SPR32X30.OCX) para dentro do diretorio de instalação do 
+Componente Empreendimento BACEN (C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento), caso não tenha os arquivos ou substituir os presentes.
 
-Recomendamos que seja reiniciado a maquia após a desisntalação do Office para em seguida efetuar a instalação novamente.
+3. Precisamos registrar as bibliotecas que alteramos. Execulte o CMD como Administrador.
 
-PRE-REQUISITO:
-Antes de começar, você vai precisar ter instalado em sua máquina um dos pacote Office 32 bits (qualquer versão apartir da versão 2007).
-
-Estar utilizando a ultima versão do Componente Empreendimento BACEN (Versão: 23/07/2020) disponivel no site bnb.gov.br.
-
-INSTALAÇÃO:
-1. Copie os arquivos (PreencheEmpreendimento.dll, SPR32D30.DLL e SPR32X30.OCX) para dentro do diretorio de instalação do 
-Componente Empreendimento BACEN (C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento) substituindo os presentes.
-
-2. Feche o programa Microsoft Excel, caso esteja com ele aberto.
-
-3. Execulte o CMD (Prompt de Comando) como Administrador.
+5. Clique em Iniciar, pesquise por CMD e clique com botão direito do mouse em "Execultar como Administrador".
 
 4. Acesse o diretorio do Componente pelo comando abaixo:
+
 cd C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento
 
 5. Digite o comando abaixo e de Enter, será apresentado tela de confirmação. Clique em OK.
-regsvr32 PreencheEmpreendimento.dll 
+
+regsvr32 PreencheEmpreendimento.dll
 
 6. Repita o procedimento com o comando abaixo.
+
 regsvr32 SPR32X30.OCX
 
 Pronto! com isso as planilhas de Projeto não apresentaram mais a critica.
 
+### TECNOLOGIAS
 
-
+- [Office 365 - 32 Bits](https://www.microsoft.com/pt-br/microsoft-365/microsoft-office)
+- [Componente Empreendimento BACEN](https://www.bnb.gov.br/aplicativos-para-elaboracao-de-propostas) (Versão: 23/07/2020)
+- [Planilha Pronaf](https://www.bnb.gov.br/aplicativos-para-elaboracao-de-propostas) (Versão: 23/02/2021)
+- regsvr32
