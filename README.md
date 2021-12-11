@@ -77,7 +77,7 @@ Pronto! com isso as planilhas de Projeto não apresentaram mais a critica.
 
 - [Office 365 - 32 Bits](https://www.microsoft.com/pt-br/microsoft-365/microsoft-office)
 - [Componente Empreendimento BACEN](https://www.bnb.gov.br/aplicativos-para-elaboracao-de-propostas) (Versão: 23/07/2020)
-- [Planilha Pronaf](https://www.bnb.gov.br/aplicativos-para-elaboracao-de-propostas) (Versão: 23/02/2021)
+- [Planilha Pronaf](https://www.bnb.gov.br/documents/7968207/8116061/PlanilhaPRONAF_Unico.zip) (Versão: 18/10/2021)
 - regsvr32
 
 
