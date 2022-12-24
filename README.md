@@ -1,11 +1,6 @@
-
-
-
 # Empreendimentos Rurais (Bacen)
 
 O Componente Empreendimento Bacen é um programa que tem a finalidade de atualizar a tabela de empreendimentos rurais, definidos pelo Banco Central, quando da utilização dos aplicativos para elaboração de propostas (Programa SEAP ou as Planilhas de Projetos).
-
-[Componente Empreendimento BACEN](https://www.bnb.gov.br/documents/7968207/8116061/Empreendimentos_BACEN.zip/) (Versão: 23/07/2020)
 
 ### ERROS COMUNS:
 
@@ -16,19 +11,15 @@ O Componente Empreendimento Bacen é um programa que tem a finalidade de atualiz
 ### NOTA: 
 Utilize este aplicativo somente com o Microsoft Excel, na plataforma de 32 bits, em qualquer versão a partir do Excel 2007. 
 
-Recomendamos que seja reiniciado a maquina após a desisntalação do Office, em seguida efetuar a instalação novamente.
-
 ### PRÉ-REQUISITO:
-Antes de começar, você vai precisar ter instalado em sua máquina um dos pacote [Office 32 bits](https://www.microsoft.com/pt-br/microsoft-365/microsoft-office) de qualquer versão apartir do Office 2007.
-
-Estar utilizando a ultima versão do [Componente Empreendimento BACEN](https://www.bnb.gov.br/aplicativos-para-elaboracao-de-propostas) (Versão: 23/07/2020) disponivel no site bnb.gov.br.
-
-Certifique-se de que as versões do Office sejam todas de 32 bits ou de 64 bits. Não é possível combinar ambas as versões. Confira "Não foi possível instalar o Office (64 bits ou 32 bits)" ao tentar instalar.
+- Pacote [Office 32 bits](https://www.microsoft.com/pt-br/microsoft-365/microsoft-office) de qualquer versão apartir do Office 2007.
+- Ultima versão do [Componente Empreendimento BACEN](https://www.bnb.gov.br/proposta-de-credito/aplicativos-para-elaboracao-de-propostas#fragment-0-moln) (Versão: 23/08/2022) disponivel no site BNB.gov.br.
+- [Planilha Pronaf](https://www.bnb.gov.br/proposta-de-credito/aplicativos-para-elaboracao-de-propostas#fragment-0-gipn) (Versão: 03/11/2022)
 
 ### INSTALAÇÃO:
 
-OBS: Procedimento destina-se a clientes e projetista que utilizam as planilha de projeto disponibilizada pelo Banco do Nordeste. Segue abaixo passos 
-para correção de critica apresentada ao utilizar planilhas de projetos disponivel pelo Banco do Nordeste.
+*OBS: Procedimento destina-se a clientes e projetista que utilizam as planilha de projeto disponibilizada pelo Banco do Nordeste. Segue abaixo passos 
+para correção de critica apresentada ao utilizar planilhas de projetos disponivel pelo Banco do Nordeste.*
 
 1. Feche o programa Microsoft Excel, caso esteja com ele aberto.
 
@@ -73,12 +64,15 @@ regsvr32 SPR32X30.OCX
 
 Pronto! com isso as planilhas de Projeto não apresentaram mais a critica.
 
+### REGSVR32:
+Regsvr32 é um utilitário de linha de comando para registrar e cancelar o registro de controles OLE, como DLLs e controles ActiveX no Registro do Windows. Regsvr32.exe está instalado na pasta %systemroot%\System32 no Windows XP e em versões posteriores do Windows. 
+
 ### TECNOLOGIAS
 
-- [Office 365 - 32 Bits](https://www.microsoft.com/pt-br/microsoft-365/microsoft-office)
-- [Componente Empreendimento BACEN](https://www.bnb.gov.br/aplicativos-para-elaboracao-de-propostas) (Versão: 23/07/2020)
-- [Planilha Pronaf](https://www.bnb.gov.br/documents/7968207/8116061/PlanilhaPRONAF_Unico.zip) (Versão: 18/10/2021)
-- regsvr32
+- [Excel - Office 365 - 32 Bits](https://www.microsoft.com/pt-br/microsoft-365/microsoft-office)
+- [Componente Empreendimento BACEN](https://www.bnb.gov.br/proposta-de-credito/aplicativos-para-elaboracao-de-propostas#fragment-0-moln) (Versão: 23/08/2022)
+- [Planilha Pronaf](https://www.bnb.gov.br/proposta-de-credito/aplicativos-para-elaboracao-de-propostas#fragment-0-gipn) (Versão: 03/11/2022)
+- Utilitario Regsvr32
 
 
 
