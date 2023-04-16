@@ -47,7 +47,7 @@ Componente Empreendimento BACEN (C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento)
   <img alt="DiretorioPreencheEmpreendimento" title="#DiretorioPreencheEmpreendimento" src="./img/DiretorioPreencheEmpreendimento.png" />
 </h1>
 
-```bash
+```cmd
 cd C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento
 ```
 
@@ -57,7 +57,7 @@ cd C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento
   <img alt="PreencheEmpreendimento" title="#PreencheEmpreendimento" src="./img/PreencheEmpreendimento.dll.png" />
 </h1>
 
-```bash
+```cmd
 regsvr32 PreencheEmpreendimento.dll
 ```
 
@@ -66,7 +66,7 @@ regsvr32 PreencheEmpreendimento.dll
   <img alt="SPR32X30" title="#SPR32X30" src="./img/SPR32X30.OCX.png" />
 </h1>
 
-```bash
+```cmd
 regsvr32 SPR32X30.OCX
 ```
 
