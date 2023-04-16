@@ -16,12 +16,20 @@ Utilize este aplicativo somente com o Microsoft Excel, na plataforma de 32 bits,
 - Ultima versão do [Componente Empreendimento BACEN](https://www.bnb.gov.br/proposta-de-credito/aplicativos-para-elaboracao-de-propostas#fragment-0-moln) (Versão: 23/08/2022) disponivel no site BNB.gov.br.
 - [Planilha Pronaf](https://www.bnb.gov.br/proposta-de-credito/aplicativos-para-elaboracao-de-propostas#fragment-0-gipn) (Versão: 03/11/2022)
 
-### INSTALAÇÃO:
+### INSTALAÇÃO AUTOMATICA OU MANUAL:
 
-*OBS: Procedimento destina-se a clientes e projetista que utilizam as planilha de projeto disponibilizada pelo Banco do Nordeste. Segue abaixo passos 
-para correção de critica apresentada ao utilizar planilhas de projetos disponivel pelo Banco do Nordeste.*
+*OBS: Procedimento destina-se a clientes e projetista que utilizam as planilha de projeto disponibilizada pelo Banco do Nordeste. 
+Segue abaixo passos para correção de critica apresentada ao utilizar planilhas de projetos.
 
-1. Feche o programa Microsoft Excel, caso esteja com ele aberto.
+## LEMBRETE: Feche o programa Microsoft Excel, caso esteja com ele aberto.
+
+### INSTALACAO AUTOMATICA:
+Execute o Arquivo Corrige_TB_BACEN.bat como administrador (clique com botão direito do mouse).
+
+OBS: o arquivo Corrige_TB_BACEN.bat faz todo o procecimento de forma automatica sem a necessidade de copia os arquivos. Caso contrario utilizar a INSTALACAO MANUAL.
+
+### INSTALACAO MANUAL:
+1. Feche o Microsoft Excel, caso estejá em execução!
 
 2. Copie os arquivos (PreencheEmpreendimento.dll, SPR32D30.DLL e SPR32X30.OCX) para dentro do diretorio de instalação do 
 Componente Empreendimento BACEN (C:\SISTEMAS\COMPONENTES\PreencheEmpreendimento), caso não tenha os arquivos ou substituir os presentes.
